@@ -1,0 +1,41 @@
+
+.main-container {
+    position: absolute;
+    min-width: 100vw !important;
+    height: 549px;
+    top:150px;
+    left: 0px;
+    background: linear-gradient(90deg, #161654 0.55%, #0F0230 100%);
+}
+.main-title{
+    position: absolute;
+width: 223px;
+height: 77px;
+font-family: Sen;
+left: 4%;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 77px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.main-content{
+    top:11em;
+    left: 25em;
+}
+.main-content-data{
+position: absolute;
+width: 243px;
+height: 61px;
+font-family: Sen;
+left: 5%;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+margin:6em 0 0 0;
+color: #FFFFFF;
+}

@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap');
+
+.footer-container {
+    position: relative;
+    min-width: 100vw !important;
+    height: 514px;
+    /* left: 0px; */
+    top: 280vh;
+    background: #0F0230;
+}
+
+.footer-image {
+    margin-top: 3em;
+}
+
+.footer-logo {
+    margin: 10px auto 20px;
+    display: block;
+}
+
+.footer-content {
+    margin-top: 10em;
+    margin-left: 40px;
+}
+
+.footer-title {
+    position: absolute;
+
+
+    font-family: Sen;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 31px;
+
+    color: #FFFFFF;
+
+}
+
+.footer-title-col3 {
+    position: absolute;
+    font-family: Sen;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    color: #FFFFFF;
+    float: right;
+    text-align: left;
+
+}
+
+.footer-section-title {
+
+    position: absolute;
+    /* margin-top: 4rem; */
+    /* line-height: 31px; */
+    font-family: Sen;
+    margin-top: 30px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    color: #FFFFFF;
+}
+.footer-col{
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.footer-social-links{
+    display: inline-block;
+    position: absolute;
+    /* margin-top: 4rem; */
+    /* line-height: 31px; */
+    margin-left: -3rem;
+    margin-top: 1rem;
+    font-family: Sen;
+    text-align: center;
+	line-height: 40px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    color: #FFFFFF;
+
+}
+.footer-img-links {
+   
+    position: absolute;
+    margin-top: 1em;
+    width: 50px;
+   
+    height: 50px;
+   
+    /* left: 930px;
+    top: 1956px; */
+    filter: drop-shadow(0px 0px 7px #EB00FF);
+}
+
+
+
+.footer-images {
+    position: absolute;
+    margin-top: 5px;
+    width: 50px;
+    height: 50px;
+    
+
+}
+/* .footer-images:nth-child(2){
+    margin-left: 3em;
+} */
+.footer-links {
+
+    font-family: Sen;
+    position: absolute;
+    margin-top: 30px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    color: #FFFFFF;
+}
