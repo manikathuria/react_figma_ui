@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react_figma_ui/static/css/main.a30152dd.chunk.css",
+    "main.js": "/react_figma_ui/static/js/main.e0d43809.chunk.js",
+    "main.js.map": "/react_figma_ui/static/js/main.e0d43809.chunk.js.map",
+    "runtime-main.js": "/react_figma_ui/static/js/runtime-main.190b1ab7.js",
+    "runtime-main.js.map": "/react_figma_ui/static/js/runtime-main.190b1ab7.js.map",
+    "static/css/2.e391a586.chunk.css": "/react_figma_ui/static/css/2.e391a586.chunk.css",
+    "static/js/2.4dd92fe4.chunk.js": "/react_figma_ui/static/js/2.4dd92fe4.chunk.js",
+    "static/js/2.4dd92fe4.chunk.js.map": "/react_figma_ui/static/js/2.4dd92fe4.chunk.js.map",
+    "static/js/3.2e24a906.chunk.js": "/react_figma_ui/static/js/3.2e24a906.chunk.js",
+    "static/js/3.2e24a906.chunk.js.map": "/react_figma_ui/static/js/3.2e24a906.chunk.js.map",
+    "index.html": "/react_figma_ui/index.html",
+    "static/css/2.e391a586.chunk.css.map": "/react_figma_ui/static/css/2.e391a586.chunk.css.map",
+    "static/css/main.a30152dd.chunk.css.map": "/react_figma_ui/static/css/main.a30152dd.chunk.css.map",
+    "static/js/2.4dd92fe4.chunk.js.LICENSE.txt": "/react_figma_ui/static/js/2.4dd92fe4.chunk.js.LICENSE.txt",
+    "static/media/lists.css": "/react_figma_ui/static/media/listsActivebg.7aa83a14.png",
+    "static/media/footerpng.8579e915.png": "/react_figma_ui/static/media/footerpng.8579e915.png",
+    "static/media/graphic1.ff34f8b5.png": "/react_figma_ui/static/media/graphic1.ff34f8b5.png",
+    "static/media/Header.css": "/react_figma_ui/static/media/navbtnbg.f666e491.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.190b1ab7.js",
+    "static/css/2.e391a586.chunk.css",
+    "static/js/2.4dd92fe4.chunk.js",
+    "static/css/main.a30152dd.chunk.css",
+    "static/js/main.e0d43809.chunk.js"
+  ]
+}
